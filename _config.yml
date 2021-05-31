@@ -6,5 +6,5 @@ twiiter_username: natural_habits
 github_username: claireloconnell 
 
 #build settings
-mardown: krandown
+mardown: kramdown
 remote_theme: jekyll/minima
