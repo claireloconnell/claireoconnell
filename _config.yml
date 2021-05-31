@@ -6,4 +6,4 @@ twiiter_username: natural_habits
 github_username: claireloconnell 
 
 #build settings
-theme: minima
+remote_theme: jekyll/minima
