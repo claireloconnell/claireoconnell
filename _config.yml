@@ -1,1 +1,9 @@
-theme: jekyll-theme-leap-day
+#basic options
+title: Claire O'Connell
+author: Hobson Lab 
+email: oconneca@mail.uc.edu
+twiiter_username: natural_habits
+github_username: claireloconnell 
+
+#build settings
+theme: minima
